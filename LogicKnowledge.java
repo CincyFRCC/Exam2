@@ -24,4 +24,8 @@ public class LogicKnowledge {
             return 0;
         }
     }
+    public static int makeChocolate(int small, int large, int goal) {
+return 0;
+    }
+
 }
